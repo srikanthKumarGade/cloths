@@ -1,4 +1,8 @@
 development:
   password: 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
+<<<<<<< HEAD
   theme_id: "132300472552"
+=======
+  theme_id: "132300407016"
+>>>>>>> 780d7d3bde48be2c8fa4ee458c7573fae54a8344
   store: https://srikanthclothstore.myshopify.com
