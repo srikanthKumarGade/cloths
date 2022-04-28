@@ -1,12 +1,6 @@
 {
   "current": "Default",
   "presets": {
-<<<<<<< HEAD
-    "Default": {}
-  }
-}
-=======
     "Default": { }
   }
 }
->>>>>>> 780d7d3bde48be2c8fa4ee458c7573fae54a8344
